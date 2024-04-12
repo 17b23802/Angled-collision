@@ -1,0 +1,18 @@
+.default{
+    left: 0;
+    top: 0;
+    rotate: 0deg;
+    background-color: black;
+    position: absolute;
+}
+.point{
+    background-color: green;
+}
+.myCanvas{
+    left:0;
+    top:0;
+    background-color: rgba(0,0,0,0.5);
+    width: 600;
+    height: 300;
+    position:absolute;
+}
